@@ -1,0 +1,3 @@
+name: gome_flutter_widgets
+packages:
+  - packages/**

@@ -14,12 +14,16 @@ Kumpulan reusable widget UI/UX untuk Flutter. Modular, ringan, dan siap pakai.
 
 ---
 
-## Preview
+### 💻 Demo
 
-<!-- 📷 (tambahkan screenshot di sini dari masing-masing widget) -->
+Buka folder [`example/`](example) dan jalankan:
+
+```bash
+flutter run
 
 ---
 
 ## Contributing
 
 Pull Request welcome. Semua kode didesain modular dan open for extension 🚀
+```
